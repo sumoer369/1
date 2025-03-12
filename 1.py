@@ -1,0 +1,7 @@
+print(123)
+print(123)
+print(123)
+print(123)
+print(123)
+print(123)
+print(123,11231,sep="sb")
